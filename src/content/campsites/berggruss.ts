@@ -165,7 +165,7 @@ export const berggruss: CampsiteConfig = {
     mail: "camping.berggruss@aon.at",
     adresse: "Berg 49 · 9771 Berg im Drautal · Kärnten",
     // Koordinaten aus dem Google-Maps-Link der Quelle (Platzmarker !3d…!4d…).
-    coords: { lat: 46.739816, lng: 13.132252 },
+    coords: { lat: 46.740584, lng: 13.13174 },
   },
 
   languages: ["DE", "EN", "NL", "CS"],
