@@ -45,7 +45,7 @@ export const berggruss: CampsiteConfig = {
     },
     {
       title: "Sonniges Südklima",
-      text: "Milde Mittelmeerluft strömt aus dem Süden ein, die Hohen Tauern halten das Wetter aus dem Norden ab — oft sonnig bis in Frühling und Herbst.",
+      text: "Milde Mittelmeerluft aus dem Süden, abgeschirmt durch die Hohen Tauern — oft sonnig bis in Frühling und Herbst.",
       image: { src: `${IMG}/sonniger-tag.webp`, alt: "Sonniger Tag am Camping Berggruss mit blauem Himmel und Bergen" },
     },
     {
@@ -113,7 +113,7 @@ export const berggruss: CampsiteConfig = {
     items: [
       { title: "Drauradweg R1", text: "Der beliebte Drauradweg verläuft rund 1 km vom Platz — familien- und genusstauglich; das Rad reist bequem per Bahn mit.", image: { src: `${IMG}/einfahrt-drauradweg.webp`, alt: "Einfahrt zum Camping Berggruss mit Infotafel und Anbindung an den Radweg" } },
       { title: "Wandern & Bergtouren", text: "Direkt vom Platz auf gemütliche Talwanderungen oder anspruchsvollere Bergtouren in den Gailtaler Alpen und der Kreuzeckgruppe.", image: { src: `${IMG}/sonnenaufgang-berge.webp`, alt: "Sonnenaufgang über den Bergen und dem Drautal bei Berg im Drautal" } },
-      { title: "Baden & Erfrischung", text: "Pool am Platz, das örtliche Freibad mit Wasserrutsche in rund 500 m und der Weißensee mit klarem Bergwasser in etwa 15 Autominuten.", image: { src: `${IMG}/pool-bergblick.webp`, alt: "Pool am Camping Berggruss mit Bergkulisse" } },
+      { title: "Baden & Erfrischung", text: "Pool am Platz, Freibad mit Wasserrutsche in 500 m und der Weißensee mit klarem Bergwasser in ca. 15 Autominuten.", image: { src: `${IMG}/pool-bergblick.webp`, alt: "Pool am Camping Berggruss mit Bergkulisse" } },
     ],
   },
 
