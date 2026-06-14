@@ -91,7 +91,7 @@ export const berggruss: CampsiteConfig = {
       { title: "Wohnwagen & Wohnmobile", text: "Ebenes Gelände und breite Einfahrt — auch für große Wohnmobile gut geeignet.", image: { src: `${IMG}/wohnmobile-stellplatz.webp`, alt: "Wohnwagen und Wohnmobile auf den Wiesenplätzen am Camping Berggruss" } },
       { title: "Moderne Sanitäranlagen", text: "Helle, gepflegte Waschräume; Duschen per Münze (€ 1,00 für 6 Minuten).", image: { src: `${IMG}/sanitaer-waschraum.webp`, alt: "Heller, moderner Waschraum mit Waschbecken am Camping Berggruss" } },
       { title: "Familienfreundlich", text: "Eigene Kinderwaschbecken und kindgerechte Sanitärbereiche für entspanntes Familiencamping.", image: { src: `${IMG}/sanitaer-kinder.webp`, alt: "Sanitärraum mit Kinderwaschbecken am Camping Berggruss" } },
-      { title: "Ver- & Entsorgung", text: "Entsorgungsstation für Wohnmobile mit Frischwasserbezug; Strom am Platz (€ 3,00/Tag).", image: { src: `${IMG}/entsorgungsstation.webp`, alt: "Entsorgungsstation für Wohnmobile am Camping Berggruss" } },
+      { title: "Ver- & Entsorgung", text: "Entsorgungsstation für Wohnmobile mit Frischwasserbezug; Strom am Platz (€ 3,00/Tag).", image: { src: `${IMG}/servicestation-outdoor.webp`, alt: "Outdoor-Servicestation mit Waschplätzen am Camping Berggruss" } },
     ],
   },
 
@@ -135,7 +135,7 @@ export const berggruss: CampsiteConfig = {
     images: [
       { src: `${IMG}/sonniger-tag-03.webp`, alt: "Sonniger Tag am Camping Berggruss mit Bergkulisse" },
       { src: `${IMG}/beachvolleyball.webp`, alt: "Beachvolleyball-Platz am Camping Berggruss" },
-      { src: `${IMG}/lageplan.webp`, alt: "Lageplan von Camping Berggruss mit den parzellierten Stellplätzen" },
+      { src: `${IMG}/pool-mit-leiter.webp`, alt: "Pool mit Einstiegsleiter am Camping Berggruss mit Bergkulisse" },
       { src: `${IMG}/waschhaus.webp`, alt: "Modernes Sanitärgebäude am Camping Berggruss" },
     ],
   },
